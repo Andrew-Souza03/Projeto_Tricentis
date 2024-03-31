@@ -9,7 +9,7 @@ O objetivo deste projeto é demonstrar a automação de testes para a funcionali
 ## Ferramentas Utilizadas
 
 - Selenium WebDriver: para automatizar a interação com o navegador web.
-- TestNG: como framework de teste para estruturar e executar os testes.
+- JUnit: como framework de teste para estruturar e executar os testes.
 - Java: linguagem de programação para escrever os scripts de automação.
 
 ## Configuração do Ambiente
