@@ -34,25 +34,6 @@ public class Metodos extends Drivers {
 	     js.executeScript("window.scrollBy(0, 500);"); // Altere o valor de 500 conforme necessário       
 	}
 
-/*public static boolean formatacaoEmail(String email) {
-    // Expressão regular para validar o formato do email
-    String regex = "^[a-zA-Z0-9_+&*-]+(?:\\.[a-zA-Z0-9_+&*-]+)*@(?:[a-zA-Z0-9-]+\\.)+[a-zA-Z]{2,7}$";
-
-    // Compilar a expressão regular em um padrão
-    Pattern pattern = Pattern.compile(regex);
-
-    // Criar um objeto Matcher para comparar o email com o padrão
-    Matcher matcher = pattern.matcher(email);
-
-    // Retorna true se o email corresponder ao padrão e false caso contrário
-    return matcher.matches();
-}
-
-public static void validarEmail(String email) {
-	if(formatacaoEmail(email) == true) {
-		
-	}
-}*/
 
 public static String gerarTelefone() {
     Random random = new Random();
