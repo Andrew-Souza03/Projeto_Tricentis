@@ -1,10 +1,10 @@
-# Automação de Testes para a Funcionalidade de Cotação de Automóveis
+# Automação de Testes para a Funcionalidade de Orçamento de Seguro para Automóveis
 
-Este é um projeto de automação de testes para a funcionalidade de cotação de automóveis do site [Sample App Tricentis](https://sampleapp.tricentis.com/).
+Este é um projeto de automação de testes para a funcionalidade de cotação de seguro para automoveis do site [Sample App Tricentis](https://sampleapp.tricentis.com/).
 
 ## Objetivo
 
-O objetivo deste projeto é demonstrar a automação de testes para a funcionalidade de cotação de automóveis do site Tricentis, utilizando o padrão Page Object para manter o código organizado e reutilizável.
+O objetivo deste projeto é demonstrar a automação de testes para a funcionalidade de cotação de seguro do site Tricentis, utilizando o padrão Page Object para manter o código organizado e reutilizável.
 
 ## Ferramentas Utilizadas
 
